@@ -4,7 +4,7 @@
     <div class="wrapper">
         <h1>Add Category</h1>
 
-        <br><br>
+        <br><br> 
         <?php 
             if(isset($_SESSION['add']))
             {
